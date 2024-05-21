@@ -1,0 +1,20 @@
+{
+    "name": "algebra/crm",
+    "description": "Mini PHP MVC Framework for CRM",
+    "type": "project",
+    "license": "MIT license",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Krunoslav Lojen",
+            "email": "krunoslav.lojen@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.2"
+    }
+}
